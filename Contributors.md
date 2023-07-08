@@ -6,3 +6,4 @@
 - [Pankaj Thapaliya](https://github.com/pankaj485)
 - [Sugyani Manjari Dash](https://github.com/Sugyani31)
 - [Prajwol Acharya](https://github.com/prjla35)
+- [Rajan Shrestha](https://github.com/ray5123)
